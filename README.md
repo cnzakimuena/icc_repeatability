@@ -2,7 +2,7 @@
 Script to generate test-retest reliability (relative repeatability) of a measurement using the intraclass correlation coefficient (ICC) ([Rajaratnam, 1960](https://doi.org/10.1007/BF02289730)). The UCLA repeated measures exercise dataset ([UCLA Office of Advanced Research Computing, n.d.](https://stats.idre.ucla.edu/stat/data/exer.csv)) is used for demonstration. The two-way random effects, absolute agreement, and single measurement convention is used ([McGraw et al, 1996](https://www.academia.edu/download/25350178/mcgrawk1996a.pdf); [Koo et al, 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4913118/pdf/main.pdf)). Accordingly, the ICC is obtained through the following equation,
 
 $$
-ICC(A,1) = \frac{\text{MS}_R - \text{MS}_E}{\text{MS}_R + (k - 1)\text{MS}_E + \frac{k}{n}(\text{MS}_C - \text{MS}_E)}
+\text{ICC(A,1)} = \frac{\text{MS}_R - \text{MS}_E}{\text{MS}_R + (k - 1)\text{MS}_E + \frac{k}{n}(\text{MS}_C - \text{MS}_E)}
 $$
 
 where $\text{MS}_R$ is the mean square for subjects (rows), $\text{MS}_C$ is the mean square for raters (columns), $\text{MS}_E$ is the residual mean square, $\text{k}$ is the number of raters/measurements and $\text{n}$ is the number of subjects. The mean square variables used to compute ICC are obtained using the following equations,
