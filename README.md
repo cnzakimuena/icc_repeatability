@@ -43,4 +43,4 @@ Cite As
 1. [Rajaratnam, N. (1960). Reliability formulas for independent decision data when reliability data are matched. Psychometrika, 25(3), 261-271.](https://doi.org/10.1007/BF02289730)
 1. UCLA Office of Advanced Research Computing. (n.d.). Exercise repeatability dataset [Data set]. University of California, Los Angeles. https://stats.idre.ucla.edu/stat/data/exer.csv
 1. [McGraw, K. O., & Wong, S. P. (1996). Forming inferences about some intraclass correlation coefficients. Psychological methods, 1(1), 30.](https://psycnet.apa.org/record/1996-03170-003)
-1. [Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. Journal of chiropractic medicine, 15(2), 155-163.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4913118/pdf/main.pdf)
+1. [Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. Journal of chiropractic medicine, 15(2), 155-163.](https://doi.org/10.1016/j.jcm.2016.02.012)
