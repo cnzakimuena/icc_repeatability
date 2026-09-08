@@ -1,0 +1,5 @@
+numpy==2.2.6
+pingouin==0.6.1
+pandas==2.3.3
+scipy==1.15.3
+statsmodels==0.15.0
