@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python icc_repeatability.py
+python repeatability_icc.py
 ```
 
 Cite As
